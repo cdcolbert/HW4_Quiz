@@ -1,0 +1,18 @@
+.timer {
+     background-color: #e8eae6;
+     padding: 5px;
+     margin: 5px;
+     text-align: right;
+}
+#timer {
+    font-weight: bold;
+}
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: 80%;
+    height: 80%;
+    justify-content: center;
+    align-items: center;
+}
